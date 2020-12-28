@@ -8,5 +8,5 @@
 - 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+
 
