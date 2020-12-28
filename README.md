@@ -1,5 +1,5 @@
 ## Hey there, I'm Mayank!
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
+<img align='right' src="" width="210">
 
 - 🎓 I'm currently pursuing **Bachelors in CS Engineering** (3rd Year) from **University of Petroleum and Energy Studies**.
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
