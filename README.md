@@ -1,6 +1,6 @@
 ## Hey there, I'm Mayank! <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 
-<img align='right' src="" width="210">
+<img align='right' src="https://github.com/mayank0rastogi/mayank0rastogi/blob/main/AU5v.gif" width="210">
 
 - 🎓 I'm currently pursuing **Bachelors in CS Engineering with Specialization in [Business Analytics and Optimization]** (3rd Year) from **University of Petroleum and Energy Studies**.
 - 🌱 I'm currently learning from Various Machine Learning Blogs Like [AnalyticsVidhya],[machine learning mastery] , [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
