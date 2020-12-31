@@ -8,8 +8,7 @@
 - 🤝🏻 I'm open for collaborations in **Data Science** , **Data Analysis** and **Machine Learning** domains.
 - 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
 
-<img src = "https://github-readme-stats.vercel.app/api?username=mayank0rastogi&&show_icons=true&theme=radical">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank0rastogi&layout=compact&theme=merko)](https://github.com/mayank0rastogi/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=mayank0rastogi&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank0rastogi&layout=compact&theme=merko)](https://github.com/mayank0rastogi/github-readme-stats)
 
 
 
