@@ -12,6 +12,10 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=mayank0rastogi&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank0rastogi&layout=compact&theme=merko)](https://github.com/mayank0rastogi/github-readme-stats)
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/MayankRastogi/mayank0rastogi.svg)](https://starchart.cc/MayankRastogi/mayank0rastogi)
+
 
 
 
