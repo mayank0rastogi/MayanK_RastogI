@@ -14,7 +14,7 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/MayankRastogi/mayank0rastogi.svg)](https://starchart.cc/MayankRastogi/mayank0rastogi)
+[![Stargazers over time](https://starchart.cc/mayank0rastogi/mayank0rastogi.svg)](https://starchart.cc/mayank0rastogi/mayank0rastogi)
 
 
 
