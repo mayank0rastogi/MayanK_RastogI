@@ -7,7 +7,7 @@
 - 🎓 I have completed my **Bachelors in CS Engineering with Specialization in [Business Analytics and Optimization]** (4th Year) from **University of Petroleum and Energy Studies**.
 - Currently Working as A Data Scientist
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
-- 💻 I'm looking for an **Full Time Role ** in **Data** domain.
+- 💻 I'm looking for an **Full Time Role** in **Data** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** , **Data Analysis** and **Machine Learning** domains.
 - 🎯 Goal (2022): **Learning** towards **Data Science and DevOps+Cloud **.
 
