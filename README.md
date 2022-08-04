@@ -7,9 +7,9 @@
 - 🎓 I have completed my **Bachelors in CS Engineering with Specialization in [Business Analytics and Optimization]** (4th Year) from **University of Petroleum and Energy Studies**.
 - Currently Working as A Data Scientist
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
-- 💻 I'm looking for an **internship** in **Machine Learning** domain.
+- 💻 I'm looking for an **Full Time Role ** in **Data** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** , **Data Analysis** and **Machine Learning** domains.
-- 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
+- 🎯 Goal (2022): **Learning** towards **Data Science and DevOps+Cloud **.
 
 <img src = "https://github-readme-stats.vercel.app/api?username=mayank0rastogi&count_private=true&&show_icons=true&&theme=dark">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank0rastogi&layout=compact&theme=dark)](https://github.com/mayank0rastogi/github-readme-stats)
 <!-- 
